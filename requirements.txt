@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn==1.2.1
+seaborn
+matplotlib
+catboost
+xgboost
+dill
+streamlit
+statsmodels
+tqdm
+joblib
+-e .
